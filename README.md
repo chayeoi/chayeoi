@@ -1,6 +1,6 @@
 # Hi, I'm Chanyeon.
 
-I'm a frontend enginieer from Seoul, who loves technical writing.
+I'm a frontend enginieer from Seoul, especially interested in technical writing.
 
 Currently, I mainly create apps with React and Typescript.
 
