@@ -2,7 +2,7 @@
 
 I'm a frontend enginieer in Seoul, interested in building useful and beautiful things.
 
-Currently, I mainly create apps with React and Typescript.
+Currently, I mainly create apps with React and TypeScript.
 
 - [Blog](https://blog.chayeoi.site)
 - [Resume](https://resume.chayeoi.site)
